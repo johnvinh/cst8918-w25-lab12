@@ -7,3 +7,8 @@
 ## Member 2: [John Vinh](https://github.com/johnvinh)
 
 - College Username: vinh0008
+## Screenshots
+### Workflow
+![](screenshots/screenshot1.png)
+### Terraform Plan
+![](screenshots/screenshot2.png)
