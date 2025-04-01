@@ -104,7 +104,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: tfplan
-          path: tfplan
+          path: ./infra/tf-app/tfplan
+          retention-days: 1
 
       # Create string output of Terraform Plan
       - name: Create String Output
